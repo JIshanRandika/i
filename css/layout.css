@@ -355,6 +355,82 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
+.php {
+    width: 50%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.c {
+    width: 60%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.dart {
+    width: 55%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.ejs {
+    width: 60%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.redux {
+    width: 65%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.expressjs {
+    width: 62%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.csharp {
+    width: 40%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.flutter {
+    width: 55%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.mysql {
+    width: 70%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.mssql {
+    width: 68%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.mongodb {
+    width: 60%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.firebase {
+    width: 63%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.ui {
+    width: 70%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+.ux {
+    width: 70%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+
+.laravel {
+    width: 62%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
 .databases{
     width: 40%;
     -moz-animation: databases 2s ease;
